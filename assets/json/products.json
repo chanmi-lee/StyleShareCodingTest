@@ -1,5 +1,4 @@
-{
-  "goods": [
+[
     {
       "id": 1,
       "name": "Python Hood T-Shirts",
@@ -236,5 +235,4 @@
         "canBundle": true
       }
     }
-  ]
-}
+]
