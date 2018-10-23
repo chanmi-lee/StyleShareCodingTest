@@ -4,7 +4,7 @@
       "name": "Python Hood T-Shirts",
       "provider": "StyleShare",
       "price": 20000,
-      "image": "../img/products/20181023_00001_TShirt",
+      "image": "../img/products/20181023_00001_TShirt.png",
       "options": [
         {
           "id": 1001,
@@ -54,7 +54,7 @@
       "name": "JAVA Round T-Shirts",
       "provider": "StyleShare",
       "price": 15000,
-      "image": "../img/products/20181023_00002_TShirt",
+      "image": "../img/products/20181023_00002_TShirt.png",
       "options": [
         {
           "id": 2001,
@@ -86,7 +86,7 @@
       "name": "PHP V Neck T-Shirts",
       "provider": "StyleShare",
       "price": 15000,
-      "image": "../img/products/20181023_00003_TShirt",
+      "image": "../img/products/20181023_00003_TShirt.png",
       "options": [
         {
           "id": 3001,
@@ -118,7 +118,7 @@
       "name": "Flask Jacket",
       "provider": "StyleShare",
       "price": 3000,
-      "image": "../img/products/20181023_00004_Jacket",
+      "image": "../img/products/20181023_00004_Jacket.png",
       "options": [
         {
           "id": 4001,
@@ -150,7 +150,7 @@
       "name": "Spring Boot Jacket",
       "provider": "StyleShare",
       "price": 20000,
-      "image": "../img/products/20181023_00005_Jacket",
+      "image": "../img/products/20181023_00005_Jacket.png",
       "options": [
         {
           "id": 5001,
@@ -188,7 +188,7 @@
       "name": "Codeigniter Jacket",
       "provider": "StyleShare",
       "price": 5000,
-      "image": "../img/products/20181023_00006_Jacket",
+      "image": "../img/products/20181023_00006_Jacket.png",
       "options": [
         {
           "id": 6001,
@@ -214,7 +214,7 @@
       "name": "Django Jacket",
       "provider": "29cm",
       "price": 15000,
-      "image": "../img/products/20181023_00007_Jacket",
+      "image": "../img/products/20181023_00007_Jacket.png",
       "options": [
         {
           "id": 7001,

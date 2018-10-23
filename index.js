@@ -4,8 +4,8 @@ import axios from "axios";
 import Products from "./components/Products";
 
 class App extends Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = {
             products: [],
             cart: []
