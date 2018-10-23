@@ -1,7 +1,7 @@
-import React, { Component }  from "react";
+import React  from "react";
 import Product from "./Product";
 
-class Products extends Component {
+class Products extends React.Component {
     constructor(props) {
         super(props);
     }
@@ -12,6 +12,7 @@ class Products extends Component {
         productsData = this.props.productsList.map(product => {
             return (
                 <Product
+                    key={product.id}
                     image={product.image}
                     name={product.name}
                     provider={product.provider}

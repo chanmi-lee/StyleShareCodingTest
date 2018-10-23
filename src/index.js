@@ -1,9 +1,9 @@
-import React, { Component }  from "react";
-import ReactDOM from "react-dom";
-import axios from "axios";
-import Products from "./components/Products";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import axios from 'axios';
+import Products from './components/Products';
 
-class App extends Component {
+class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -12,7 +12,7 @@ class App extends Component {
         };
     }
     getProducts() {
-        let url = "assets/json/products.json";
+        let url = "../assets/json/products.json";
         axios.get(url).then(response => {
             this.setState({
                 products: response.data
